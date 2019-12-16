@@ -1,34 +1,32 @@
 # typescript
 
-## Project setup
+## 项目安装依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 编译和热更新开发环境
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### 打包成生产环境
 ```
 yarn run build
 ```
 
-### Run your tests
+### 运行测试
 ```
 yarn run test
 ```
 
-### Lints and fixes files
+### lint调整警告
 ```
 yarn run lint
 ```
 
-### Run your unit tests
+### 运行你的单元测试
 ```
 yarn run test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
